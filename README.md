@@ -1,2 +1,4 @@
 # Babilaques
-Repositório para divagações eletrônicas e etc
+Repositório para divagações eletrônicas, elocubrações digitais e afins.
+
+Fique à vontade.
