@@ -1,5 +1,5 @@
 # Babilaques
-Saudações, fellow programmer!
+Saudações!
 
 Repositório para divagações eletrônicas, elocubrações digitais e afins.
 
